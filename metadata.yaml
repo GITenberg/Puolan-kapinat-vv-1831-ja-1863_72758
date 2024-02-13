@@ -1,0 +1,35 @@
+_repo: Puolan-kapinat-vv-1831-ja-1863_72758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yrjö-Koskinen, Yrjö Sakari
+    aliases:
+    - Forsman, Georg Zacharias
+    - Yrjo-Koskinen, Yrjo Sakari
+    - Koskinen, Yrjö Sakari
+    birthdate: 1830
+    deathdate: 1903
+    gutenberg_agent_id: '8325'
+    url: http://www.gutenberg.org/2009/agents/8325
+    wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Sakari_Yrj%C3%B6-Koskinen
+description: ''
+gutenberg_issued: '2024-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72758'
+language: fi
+pgterms:marc905: 20231221234126yrjkoskine
+pgterms:marc906: '1903'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poland -- History -- Revolution, 1830-1832'
+- !lcsh 'Poland -- History -- Revolution, 1863-1864'
+- !lcc 'DK'
+- GITenberg
+title: Puolan kapinat vv. 1831 ja 1863
+url: http://www.gutenberg.org/ebooks/72758
